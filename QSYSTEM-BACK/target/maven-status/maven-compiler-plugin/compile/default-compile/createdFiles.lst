@@ -1,0 +1,8 @@
+com\pruebatecnica\rolly\service\Impl\PersonaServiceImpl.class
+com\pruebatecnica\rolly\controller\PersonaController.class
+com\pruebatecnica\rolly\model\Persona.class
+com\pruebatecnica\rolly\request\BusquedaRequest.class
+com\pruebatecnica\rolly\common\CentroDistribucion.class
+com\pruebatecnica\rolly\MsClientePersonaApplication.class
+com\pruebatecnica\rolly\repository\PersonaRepository.class
+com\pruebatecnica\rolly\service\PersonaService.class
